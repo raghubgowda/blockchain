@@ -1,5 +1,7 @@
-# blockchain
-Sample programs to learn block chain
+# Blockchain
+Sample programs to learn block chain.
+
+
 This program shows 
 * How to create a simple block chain
 * Alter the data in a block to make the chain invalid
